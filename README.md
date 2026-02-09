@@ -1,4 +1,3 @@
-```md
 # Hi 👋, I'm **Kallepu Akshaya**
 
 <p align="center">
@@ -8,24 +7,22 @@
 ---
 
 ## 🚀 About Me  
-
 🎯 **Python Full Stack Developer | Aspiring Data Analyst**  
 📍 From **India**  
 📚 Currently upskilling in **Data Analytics**  
 💡 Love building applications and working with data  
-
 > ⚡ *Fun Fact:* I get excited when my code runs perfectly on the first try (rare moment 😄)
 
 ---
 
 ## 🌱 Currently Learning  
-- **Data Analytics**
+- Data Analytics  
 - SQL | Power BI | Python for Data Science | Data Visualization  
 
 ---
 
 ## 💬 Ask Me About  
-- **Python | HTML | CSS | JavaScript | Oracle | Machine Learning**
+- Python | HTML | CSS | JavaScript | Oracle | Machine Learning  
 
 ---
 
@@ -35,11 +32,9 @@
 <a href="mailto:kallepuakshaya@gmail.com">
   <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
 </a>
-
 <a href="https://linkedin.com/in/kallepu-akshaya">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
-
 <a href="https://github.com/kallepuakshaya">
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
 </a>
@@ -48,7 +43,7 @@
 📧 **Email:** kallepuakshaya@gmail.com  
 🔗 **LinkedIn:** https://linkedin.com/in/kallepu-akshaya  
 💻 **GitHub:** https://github.com/kallepuakshaya  
-📄 **Resume:** https://drive.google.com/file/d/1socVd4ovIQfDju-FU4uVZ_JD7VQUyUBT/view
+📄 **Resume:** https://drive.google.com/file/d/1socVd4ovIQfDju-FU4uVZ_JD7VQUyUBT/view  
 
 ---
 
@@ -65,13 +60,11 @@
 ---
 
 ## 📌 What you’ll find in my GitHub  
-
-- 🔹 Full Stack Web Projects  
-- 🔹 Python & Machine Learning Notebooks  
-- 🔹 Data Analysis & Visualization Work  
-- 🔹 Practice & Learning Repositories  
+- Full Stack Web Projects  
+- Python & Machine Learning Notebooks  
+- Data Analysis & Visualization Work  
+- Practice & Learning Repositories  
 
 ---
 
 ✨ *Feel free to explore my repositories and connect with me!*
-```
